@@ -18,4 +18,3 @@ function doWhileLoop(array) {
   return arary
 }
 var tab = ["fistVar", "secondVar"]
-
