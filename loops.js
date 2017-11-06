@@ -15,6 +15,6 @@ function doWhileLoop(array) {
     array.length-=1
   }
   while(array.length >0 && maybeTrue())
-  return arary
+  return array
 }
 var tab = ["fistVar", "secondVar"]
