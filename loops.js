@@ -17,5 +17,5 @@ function doWhileLoop(array) {
   }
   while(array.length >0 && maybeTrue())
 }
-var tab = new Array ('1', '2')
+var tab = ["fistVar", "secondVar"]
 forLoop(tab)
