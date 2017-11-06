@@ -18,3 +18,4 @@ function doWhileLoop(array) {
 }
 var tab = ["fistVar", "secondVar"]
 doWhileLoop(tab)
+tab
