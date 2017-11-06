@@ -12,4 +12,4 @@ function doWhileLoop(array) {
   while(array.length >0 && maybeTrue())
 }
 var tab = ["fistVar", "secondVar"]
-forLoop(tab)
+doWhileLoop(10)
