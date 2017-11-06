@@ -13,10 +13,10 @@ function maybeTrue() {
 function doWhileLoop(array) {
   do{
     array.length-=1
+    console.log(array)    
   }
   while(array.length >0 && maybeTrue())
 }
 var tab = ["fistVar", "secondVar"]
 console.log(tab)
 doWhileLoop(tab)
-console.log(tab)
