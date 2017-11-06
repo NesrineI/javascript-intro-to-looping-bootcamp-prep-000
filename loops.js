@@ -17,5 +17,6 @@ function doWhileLoop(array) {
   while(array.length >0 && maybeTrue())
 }
 var tab = ["fistVar", "secondVar"]
+console.log(tab)
 doWhileLoop(tab)
-tab
+console.log(tab)
