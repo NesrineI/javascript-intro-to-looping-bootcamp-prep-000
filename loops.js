@@ -13,7 +13,7 @@ function maybeTrue() {
 function doWhileLoop(array) {
   do{
     array.length-=1
-    console.log(array)    
+    console.log(array)
   }
   while(array.length >0 && maybeTrue())
 }
